@@ -1,5 +1,9 @@
 # My-project-2
 
+# v1.2.1
+
+Ši versija nuo v1.2 skiriasi tuo, kad "studentas.h" faile yra pridėti įvesties ir išvesties operatoriai. Taip pat išvesties operatorius yra panaudotas išvedant testo metu atliktus rezultatus į failą.
+
 # v1.2
 
 Ši programos versija papildo versiją v1.1 tuo, kad klasėje yra naudojama "Rule of three". Tai reiškia, kad naujoje programos versijos klasėje atsiranda destruktorius, kopijavimo konstruktorius ir kopijavimo priskyrimas.
