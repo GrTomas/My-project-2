@@ -1,5 +1,9 @@
 # My-project-2
 
+# v1.5
+
+Ši programos versija papildo versiją v1.5 tuo, kad šioje versijoje klasė studentas yra suskirstyta į dvi dalis. Ji suskirstyta į bazinę klasę žmogus ir išvestinę klasę studentas. Taip pat šioje versijoje sukurti galima tik studento klasės objektą, žmogaus klasės objektas yra apsaugotas ir šio tipo kintamieji negali būti pasiekiami. Šios klasės kintamieji gali būti pasiekti tik išvestinės klasės. Kitaip tariant žmogaus klasė yra abstrakčioji.
+
 # v1.2.1
 
 Ši versija nuo v1.2 skiriasi tuo, kad "studentas.h" faile yra pridėti įvesties ir išvesties operatoriai. Taip pat išvesties operatorius yra panaudotas išvedant testo metu atliktus rezultatus į failą.
