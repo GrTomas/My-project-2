@@ -1,5 +1,11 @@
 # My-project-2
 
+# v2.0
+Šioje programos versijoje pateikta programos dokumentacija. Ši dokumentacija parašyta naudojantis doxygen. Visi HTML failai su dokumentacija yra aplanke pavadinimu "html". Taip pat šiame faile yra įdėti cmake failai.
+
+Programos instrukcija:
+atsisiuntę failus tiesiog atidarykite  "c_make_run.bat" failą ir taip paleisite sukoduota programą.
+
 # v1.5
 
 Ši programos versija papildo versiją v1.2 tuo, kad šioje versijoje klasė studentas yra suskirstyta į dvi dalis. Ji suskirstyta į bazinę klasę žmogus ir išvestinę klasę studentas. Taip pat šioje versijoje sukurti galima tik studento klasės objektą, žmogaus klasės objektas yra apsaugotas ir šio tipo kintamieji negali būti pasiekiami. Šios klasės kintamieji gali būti pasiekti tik išvestinės klasės. Kitaip tariant žmogaus klasė yra abstrakčioji.
